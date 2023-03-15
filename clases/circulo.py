@@ -1,5 +1,4 @@
-import math
-
+# pi can be imported from math, numpy, scypy, etc.
 
 class Circle():
     """
